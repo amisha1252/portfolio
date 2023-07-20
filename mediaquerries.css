@@ -29,6 +29,9 @@
 section, .section-container{
     height:fit-content;
 }
+
+
+    
 section{
     margin:0 5% ;
 }
@@ -77,6 +80,9 @@ section{
     .logo{
         font-size: 1.5rem;
     }
+    .del{
+    display:none;
+}
     .nav-links{
         flex-direction:column ;
         gap: 0.5rem;
